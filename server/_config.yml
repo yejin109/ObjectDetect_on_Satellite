@@ -1,0 +1,19 @@
+model_id: batch4_lr0.0005_weight-decay0.0001_momentum0.9_total-epoch100_epoch-30th.pt
+optim: sgd
+is_pretrained: no_pretrained
+
+num_classes: 4
+hidden_layer: 2
+batch_size: 4
+
+lr: 0.0005
+weight_decay: 0.0001
+momentum: 0.9
+epochs: 20
+
+raw_size: 1024
+post_size: 224
+
+train_size: 1500
+val_size: 124
+test_size: 124

@@ -1,0 +1,4 @@
+.idea
+data/training
+data/validation
+snapshot/model

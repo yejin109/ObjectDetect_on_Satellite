@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>view image</title>
+</head>
+<body>
+    <h1> 이미지 </h1>
+    
+ 
+    {% for obj in data_list%}
+        <p>
+            <img src="{{url_for('static', filename=obj.dir) }}" width="3000" height="3000">
+        </p>
+    {% endfor %}
+</body>
+</html>
