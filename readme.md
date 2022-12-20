@@ -14,15 +14,15 @@ You can see more details in the link about how this dataset has made up and proc
 
 Target classes of interest are Bus, Truck and small vehicle among whole classes. 
 
-![데이터 셋](assets/img1.PNG)
+![데이터 셋](assets/img2.PNG)
 
 ## Sample 
 
 [Youtube Link](https://youtube.com/shorts/rJyyP-Jv9qg?feature=share)
 
-![데이터 셋](assets/1.PNG)
+![sample1](assets/1.PNG)
 
-![데이터 셋](assets/2.PNG)
+![sample2](assets/2.PNG)
 
-![데이터 셋](assets/3.PNG)
+![sample3](assets/3.PNG)
 
